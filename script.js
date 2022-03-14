@@ -40,7 +40,7 @@ var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula"
 // See Lecture 50, part 1
 for (var i = 0; i < names.length; i++) {
   
-  byeSpeaker.speak(names[i]);
+  // byeSpeaker.speak(names[i]);
   
   
   // STEP 11:
