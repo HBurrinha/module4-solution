@@ -62,9 +62,9 @@ for (var i = 0 i < names.length; i++) {
   var letra = "j";
   
   if (firstLetter === letra) {
-     byeSpeaker.speak(names[i])
+        byeSpeaker.speak(names[i]);
       }   else {
-      helloSpeaker.speak(names[i])
+         helloSpeaker.speak(names[i]);
     }
   }
 })();
